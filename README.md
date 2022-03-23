@@ -23,6 +23,14 @@ pip install -r requirements.txt
 
 The data file `events.log` should be placed in the folder `data/`
 
+You can run the notebook in your webbrowser to see the analysis or just run
+
+```bash
+ipython -c "%run exploration.ipynb"
+```
+
+to get the final export.
+
 ## Description of the solution
 
 The notebook `exploration.ipynb` mixes the data analysis and the solution proposed for the current problem.
