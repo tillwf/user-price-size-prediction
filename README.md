@@ -46,7 +46,7 @@ The more complex solution is to estimate the likelihood of the gaussian paramete
 
 ### Output
 
-The size preferences will be outputed in `data/size_predictions.json` and the price preferences in `data/price_predictions_simple.json` and `data/price_predictions_complex.json`
+The size preferences will be outputed in `data/size_predictions.json` and the price preferences in `data/price_predictions_simple.json`.
 
 ## Future work
 
